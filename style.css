@@ -100,7 +100,7 @@
          border-radius: 50%;
          background-position: center;
          position: relative;
-         bottom: -52px;
+         bottom: -22px;
          border: none;
          background-color: var(--neonGreen);
          color: rgba(255, 255, 255, 0.9);
@@ -184,7 +184,7 @@
          border-radius: 50%;
          background-position: center;
          position: relative;
-         bottom: -52px;
+         bottom: -22px;
          border: none;
          background-color: var(--neonGreen);
          color: rgba(255, 255, 255, 0.9);
